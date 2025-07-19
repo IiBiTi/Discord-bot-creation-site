@@ -1,0 +1,6 @@
+{
+  "name": "Discord Bot Generator",
+  "description": "An application to help users generate Node.js code for a Discord bot using natural language commands, powered by the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
